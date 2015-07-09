@@ -5,7 +5,8 @@ int main (void) {
 
 	printf("Hello World!\n");
 	printf("I'm %s.\n", arr);
-	printf("Nice to meet you!\m");
+	printf("Nice to meet you!\n");
+	printf("How do you do?\n");
 
 	return 0;
 }
