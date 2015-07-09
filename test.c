@@ -4,7 +4,8 @@ int main (void) {
 	char arr[10] = "SoeunLee";
 
 	printf("Hello World!\n");
-	printf("I'm %s.", arr);
+	printf("I'm %s.\n", arr);
+	printf("Nice to meet you!\m");
 
 	return 0;
 }
